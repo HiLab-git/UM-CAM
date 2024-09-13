@@ -52,5 +52,5 @@ Before you can use this package for image segmentation. You should:
 
 
 ## Acknowledgement and Statement
-- We thank the authors of [FastGeodis](https://github.com/masadcv/FastGeodis), [MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg) and [PyMIC](https://github.com/HiLab-git/PyMIC) for their elegant and efficient code base
+- We thank the authors of [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam), [FastGeodis](https://github.com/masadcv/FastGeodis), [MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg) and [PyMIC](https://github.com/HiLab-git/PyMIC) for their elegant and efficient code base
 - This project was designed for academic research, not for clinical or commercial use.
